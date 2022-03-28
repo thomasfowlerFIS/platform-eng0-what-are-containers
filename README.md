@@ -8,9 +8,9 @@ We can easily create containers if we have a definition of operating system libr
 
 <img alt="Container diagram" src="https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-what-are-containers/master/diagram-1.png?raw=true" />
 
-[Fig. 1]
-
 --------------------------------------------
+
+[Fig. 1]
 
 Notice that we’re not emulating an entire guest OS like we do with virtual machines. We can install Docker on Linux, Mac, and Windows machines which allows us to run our containers across all these different operating systems.
 
@@ -26,9 +26,9 @@ It used to take days to load and unload cargo before the invention of intermodal
 
 <img alt="By Unknown author - State Library of South Australia, available at [http://collections.slsa.sa.gov.au/resource/B+4433], Public Domain, [https://commons.wikimedia.org/w/index.php?curid=36468603]" src="https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-what-are-containers/master/ship.png?raw=true" />
 
-[Fig. 2]
-
 --------------------------------------------
+
+[Fig. 2]
 
 <!-- ![By Unknown author - State Library of South Australia, available at [http://collections.slsa.sa.gov.au/resource/B+4433](http://collections.slsa.sa.gov.au/resource/B+4433), Public Domain, [https://commons.wikimedia.org/w/index.php?curid=36468603](https://commons.wikimedia.org/w/index.php?curid=36468603)](https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-what-are-containers/master/ship.png?raw=true) -->
 
@@ -40,9 +40,9 @@ Each cargo has a unique size, shape, and handling requirement. It would be night
 
 <img alt="By KMJ, CC BY-SA 3.0, [https://commons.wikimedia.org/w/index.php?curid=1443327]" src="https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-what-are-containers/master/container.png?raw=true"/>
 
-[Fig. 3]
-
 --------------------------------------------
+
+[Fig. 3]
 
 <!-- ![By KMJ, CC BY-SA 3.0, [https://commons.wikimedia.org/w/index.php?curid=1443327](https://commons.wikimedia.org/w/index.php?curid=1443327)](https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-what-are-containers/master/container.png?raw=true) -->
 
