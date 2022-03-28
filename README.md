@@ -30,8 +30,6 @@ It used to take days to load and unload cargo before the invention of intermodal
 
 [Fig. 2]
 
-<!-- ![By Unknown author - State Library of South Australia, available at [http://collections.slsa.sa.gov.au/resource/B+4433](http://collections.slsa.sa.gov.au/resource/B+4433), Public Domain, [https://commons.wikimedia.org/w/index.php?curid=36468603](https://commons.wikimedia.org/w/index.php?curid=36468603)](https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-what-are-containers/master/ship.png?raw=true) -->
-
 By Unknown author - State Library of South Australia, available at [http://collections.slsa.sa.gov.au/resource/B+4433](http://collections.slsa.sa.gov.au/resource/B+4433), Public Domain, [https://commons.wikimedia.org/w/index.php?curid=36468603](https://commons.wikimedia.org/w/index.php?curid=36468603)
 
 Each cargo has a unique size, shape, and handling requirement. It would be nightmare to create  standard equipments for handling all the different types of cargo.
@@ -43,8 +41,6 @@ Each cargo has a unique size, shape, and handling requirement. It would be night
 --------------------------------------------
 
 [Fig. 3]
-
-<!-- ![By KMJ, CC BY-SA 3.0, [https://commons.wikimedia.org/w/index.php?curid=1443327](https://commons.wikimedia.org/w/index.php?curid=1443327)](https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-what-are-containers/master/container.png?raw=true) -->
 
 By KMJ, CC BY-SA 3.0, [https://commons.wikimedia.org/w/index.php?curid=1443327](https://commons.wikimedia.org/w/index.php?curid=1443327)
 
