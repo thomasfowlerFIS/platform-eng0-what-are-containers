@@ -1,4 +1,4 @@
-# What are Containers
+# What are Containers?
 
 Containers are a way of packaging code so that it can be run across different hardware and operating systems.
 
@@ -6,7 +6,7 @@ We can easily create containers if we have a definition of operating system libr
 
 --------------------------------------------
 
-<img alt="Container diagram" src="https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-what-are-containers/master/diagram-1.png?raw=true" width="640" /> [Fig. 1]
+<img alt="Container diagram" src="https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-what-are-containers/master/diagram-1.png?raw=true" /> [Fig. 1]
 
 --------------------------------------------
 
@@ -22,7 +22,7 @@ It used to take days to load and unload cargo before the invention of intermodal
 
 --------------------------------------------
 
-<img alt="By Unknown author - State Library of South Australia, available at [http://collections.slsa.sa.gov.au/resource/B+4433], Public Domain, [https://commons.wikimedia.org/w/index.php?curid=36468603]" src="https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-what-are-containers/master/ship.png?raw=true" width="640" /> [Fig. 1]
+<img alt="By Unknown author - State Library of South Australia, available at [http://collections.slsa.sa.gov.au/resource/B+4433], Public Domain, [https://commons.wikimedia.org/w/index.php?curid=36468603]" src="https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-what-are-containers/master/ship.png?raw=true" /> [Fig. 2]
 
 --------------------------------------------
 
@@ -34,7 +34,7 @@ Each cargo has a unique size, shape, and handling requirement. It would be night
 
 --------------------------------------------
 
-<img alt="By KMJ, CC BY-SA 3.0, [https://commons.wikimedia.org/w/index.php?curid=1443327]" src="https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-what-are-containers/master/container.png?raw=true" width="640" /> [Fig. 1]
+<img alt="By KMJ, CC BY-SA 3.0, [https://commons.wikimedia.org/w/index.php?curid=1443327]" src="https://raw.githubusercontent.com/thomasfowlerFIS/platform-eng0-what-are-containers/master/container.png?raw=true"/> [Fig. 3]
 
 --------------------------------------------
 
